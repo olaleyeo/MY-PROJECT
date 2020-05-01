@@ -1,0 +1,29 @@
+body {
+    background-color: #E0EBEA;
+}
+.nav {
+    background-color: white;
+    padding: 10px 120px;
+}
+.login-page {
+    background-color: white;
+    border-radius: 15px;
+    position: relative;
+    border: 1px solid #324986;
+    padding: 30px;
+    width: 500px;
+    left: 20%;
+    /* maring-left: -250px; */
+    margin-top: 50px;
+    display: block;
+    /* behavior: url(../html/PIE.htc);
+    -pie-border-radius: 10px;
+    z-index: 0; */
+    text-emphasis-color: #334988;
+} 
+/* .title {
+    padding-top: 5px;
+    padding-bottom: 15px;
+    font-size: large;
+    color: #334988; */
+}
