@@ -1,9 +1,35 @@
 body {
     background-color: #E0EBEA;
 }
+a {
+    white-space: nowrap;
+    text-decoration: underline;
+    cursor: pointer;
+    color: #324986;
+}
+.login {
+    background-color: white;
+    color: #334988;
+}
+.link {
+    vertical-align: top;
+    font-size: smaller;
+    padding: 10px; 
+    background-color: white;   
+}
 .nav {
     background-color: white;
     padding: 10px 120px;
+}
+.nav1 {
+    background-color: #334988;
+    word-wrap: break-word;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: Arial;
+    color: white;
+    margin: 1px 0px;
+    padding-bottom: 14px;
 }
 .login-page {
     background-color: white;
@@ -14,7 +40,7 @@ body {
     width: 500px;
     left: 20%;
     /* maring-left: -250px; */
-    margin-top: 50px;
+    margin-top: 2px;
     display: block;
     /* behavior: url(../html/PIE.htc);
     -pie-border-radius: 10px;
