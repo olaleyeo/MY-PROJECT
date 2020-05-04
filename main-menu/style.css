@@ -1,6 +1,9 @@
 body {
     background-color: #E0EBEA;
 }
+a {
+    color: black;
+}
 .heading {
    text-decoration: underline;
 }
