@@ -1,0 +1,13 @@
+body {
+    background-color: #E0EBEA;
+    background-size: 100%;
+    background-image: url("/images/Sterling\ logo 2.jpg")
+}
+a {
+    color: white;
+}
+.heading {
+    text-align: center;
+    padding: 20px;
+    color: red;
+}
